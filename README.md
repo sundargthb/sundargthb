@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sundar. I am using this space to learn and collaborate Deep Learning projects using PyTorch.
-- I have uploaded some projects I did for Udacity and some more PyTorch codes that I found useful
+- I have uploaded some projects I did for Udacity and some more PyTorch codes that you may find useful as a beginner
 
 
 <!---
